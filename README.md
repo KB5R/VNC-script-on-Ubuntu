@@ -1,4 +1,5 @@
 # Установка VNC Serever для Linux
+# UNSUPPORTED
 ## WARNING 
 ### Checked
 ### Ubuntu 22.04
